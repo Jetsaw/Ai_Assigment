@@ -1,3 +1,6 @@
+# JET SAW JUN JIE 1231303401
+# LIAW RUO SHAN 1231302935
+
 import numpy as np
 import pandas as pd
 import time
